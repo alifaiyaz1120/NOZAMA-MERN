@@ -1,4 +1,4 @@
-# NOZAMA 🛍️ 🛒 - MERN Stack Edition E-Commerce Platform
+# NOZAMA 🛍️ 🛒 - MERN Stack Edition 
 
 ## Latest Improved Version with AWS!
 Nozama just got a fantastic upgrade with cool AWS (Amazon Web Services) features! See the GitHub repository (https://github.com/alifaiyaz1120/NOZAMA).
