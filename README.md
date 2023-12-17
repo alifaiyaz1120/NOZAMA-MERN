@@ -31,12 +31,6 @@ npm run start
 - This will launch Nozama on your local machine. Open your web browser and visit http://localhost:3000 to explore and enjoy a smooth shopping experience! 🛒✨
 
 
-
-
-Nozama leverages the power of the MERN stack to ensure a robust and scalable solution. Product data is fetched from Dummy JSON through API calls handled in the ExpressJS backend. React Router is employed for efficient client and server-side routing within our React application.
-
-
-E-Commerce Website that allows users to browse and purchase products.
 <img width="1300" alt="Screenshot 2023-12-17 at 11 55 10 AM" src="https://github.com/alifaiyaz1120/NOZAMA-MERN/assets/119764873/50385b1a-5baa-42f0-96f8-ea26a962316a">
 <img width="1300" alt="Screenshot 2023-12-17 at 11 55 23 AM" src="https://github.com/alifaiyaz1120/NOZAMA-MERN/assets/119764873/8d5ec67f-b73f-4a68-a396-a0982c29c00c">
 <img width="1300" alt="Screenshot 2023-12-17 at 11 55 33 AM" src="https://github.com/alifaiyaz1120/NOZAMA-MERN/assets/119764873/1546fb14-db03-416a-bea8-7590bdcd0013">
