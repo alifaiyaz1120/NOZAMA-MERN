@@ -1,12 +1,12 @@
 # NOZAMA 🛍️ 🛒 - MERN Stack Edition E-Commerce Platform
 
+## Latest Improved Version with AWS!
+Nozama just got a fantastic upgrade with cool AWS (Amazon Web Services) features! See the GitHub repository (https://github.com/alifaiyaz1120/NOZAMA).
+
 ## Overview
 Nozama is an online shopping platform built with the MERN stack, which includes MongoDB, ExpressJS, ReactJS, and Node.js. Our goal is to make shopping enjoyable and user-friendly for you. The website has a modern design that works well on all devices. You can easily browse products, search for specific items, and make purchases effortlessly.
 
 Nozama pulls product data via API calls to [Dummy JSON](https://dummyjson.com/docs/products). API calls are made in the backend which is written in ExpressJS. React Router serves as a middle man to handle client and server-side routing in our React application.
-
-## Latest Improved Version with AWS!
-Nozama just got a fantastic upgrade with cool AWS (Amazon Web Services) features! See the GitHub repository (https://github.com/alifaiyaz1120/NOZAMA).
 
 ## Technologies Used
 - MongoDB: Stores product and user information securely.
