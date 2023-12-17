@@ -1,4 +1,4 @@
-# E-Commerce-Website-MERN (NOZAMA)
+# NOZAMA (MERN Stack Edition)
 
 E-Commerce Website that allows users to browse and purchase products.
 <img width="1300" alt="Screenshot 2023-12-17 at 11 55 10 AM" src="https://github.com/alifaiyaz1120/NOZAMA-MERN/assets/119764873/50385b1a-5baa-42f0-96f8-ea26a962316a">
